@@ -1,6 +1,7 @@
 package com.xiwei;
 
 /**
+ * ConcreteProduct产品的实现类
  * ICat接口的实现类
  */
 public class BlackCat implements ICat {
