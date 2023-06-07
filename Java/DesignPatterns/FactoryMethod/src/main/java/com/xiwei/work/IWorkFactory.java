@@ -1,6 +1,7 @@
-package com.xiwei;
+package com.xiwei.work;
 
 /**
+ * 例2
  * 抽象工厂接口
  */
 public interface IWorkFactory {

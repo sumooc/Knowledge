@@ -1,11 +1,11 @@
-package com.xiwei;
+package com.xiwei.work;
 
-public class Test {
+public class TestClient {
     public static void main(String[] args) {
         IWorkFactory studentWorkFactory = new StudentWorkFactory();
         studentWorkFactory.getWork().doWork();
 
-        TeacherWorkFactory teacherWorkFactory = new TeacherWorkFactory();
+        IWorkFactory teacherWorkFactory = new TeacherWorkFactory();
         teacherWorkFactory.getWork().doWork();
     }
 }
