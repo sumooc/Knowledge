@@ -1,6 +1,6 @@
-package com.xiwei;
+package com.xiwei.animal;
 
-public class TestClass {
+public class TestClient {
     public static void main(String[] args) {
         IAnimalFactory whiteAnimalFactory = new WhiteAnimalFactory();
         ICat whiteCat = whiteAnimalFactory.createCat();

@@ -1,4 +1,4 @@
-package com.xiwei;
+package com.xiwei.animal;
 
 /**
  * AbstractProduct

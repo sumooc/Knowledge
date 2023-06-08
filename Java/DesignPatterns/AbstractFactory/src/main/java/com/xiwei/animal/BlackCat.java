@@ -1,4 +1,4 @@
-package com.xiwei;
+package com.xiwei.animal;
 
 /**
  * ConcreteProduct产品的实现类
