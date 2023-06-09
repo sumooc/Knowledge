@@ -8,5 +8,6 @@
     </parent>
     <artifactId>FactoryMethod</artifactId>
     <name>FactoryMethod</name>
+    <description>工厂方法模式</description>
 
 </project>

@@ -8,5 +8,6 @@
     </parent>
     <artifactId>AbstractFactory</artifactId>
     <name>AbstractFactory</name>
+    <description>抽象工厂模式</description>
 
 </project>

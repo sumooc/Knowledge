@@ -6,8 +6,8 @@
         <artifactId>DesignPatterns</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <artifactId>SimpleFactory</artifactId>
-    <name>SimpleFactory</name>
-    <description>简单工厂模式</description>
+    <artifactId>PrototypePattern</artifactId>
+    <name>PrototypePattern</name>
+    <description>原型(克隆)模式</description>
 
 </project>
