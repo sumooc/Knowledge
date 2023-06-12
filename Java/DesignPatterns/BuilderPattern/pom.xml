@@ -8,6 +8,6 @@
     </parent>
     <artifactId>BuilderPattern</artifactId>
     <name>BuilderPattern</name>
-    <description>工厂方法模式</description>
+    <description>建造者模式</description>
 
 </project>

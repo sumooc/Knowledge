@@ -49,4 +49,15 @@ public class Actor {
     public void setHairstyle(String hairstyle) {
         this.hairstyle = hairstyle;
     }
+
+    @Override
+    public String toString() {
+        return "Actor{" +
+                "Type='" + Type + '\'' +
+                ", sex='" + sex + '\'' +
+                ", face='" + face + '\'' +
+                ", costume='" + costume + '\'' +
+                ", hairstyle='" + hairstyle + '\'' +
+                '}';
+    }
 }

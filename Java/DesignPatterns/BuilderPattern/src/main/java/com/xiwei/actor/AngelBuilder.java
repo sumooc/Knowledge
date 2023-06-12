@@ -6,23 +6,23 @@ package com.xiwei.actor;
 class AngelBuilder extends ActorBuilder {
 
     public void buildType() {
-        actor.setType("英雄");
+        actor.setType("天使");
     }
 
     public void buildSex() {
-        actor.setSex("男");
+        actor.setSex("女");
     }
 
     public void buildFace() {
-        actor.setFace("英俊");
+        actor.setFace("漂亮");
     }
 
     public void buildCostume() {
-        actor.setCostume("盔甲");
+        actor.setCostume("白裙");
     }
 
     public void buildHairstyle() {
-        actor.setHairstyle("飘逸");
+        actor.setHairstyle("长发");
     }
 
 }
