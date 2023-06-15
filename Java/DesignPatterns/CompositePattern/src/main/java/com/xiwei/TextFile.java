@@ -2,6 +2,7 @@ package com.xiwei;
 
 /**
  * 文本文件类：叶子构件
+ * 叶子对象不可能有下一个层次的对象，即不可能包含成员对象
  */
 public class TextFile extends AbstractFile {
 
