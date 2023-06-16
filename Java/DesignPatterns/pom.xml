@@ -18,6 +18,7 @@
         <module>BridgePattern</module>
         <module>CompositePattern</module>
         <module>DecoratorPattern</module>
+        <module>FacadePattern</module>
     </modules>
 
     <properties>
