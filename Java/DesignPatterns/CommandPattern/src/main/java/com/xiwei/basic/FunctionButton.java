@@ -1,4 +1,6 @@
-package com.xiwei;
+package com.xiwei.basic;
+
+import com.xiwei.common.Command;
 
 /**
  * 功能键类：请求发送者

@@ -1,4 +1,4 @@
-package com.xiwei;
+package com.xiwei.command_queue;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,13 +6,13 @@ import java.util.List;
 /**
  * 功能键设置窗口类
  */
-public class FBSettingWindow {
+public class FBSettingWindowCQ {
     // 窗口标题
     private String title;
     // 存储所有功能键
-    private List<FunctionButton> functionButtons = new ArrayList<>();
+    private List<FunctionButtonCQ> functionButtons = new ArrayList<>();
 
-    public FBSettingWindow(String title) {
+    public FBSettingWindowCQ(String title) {
         this.title = title;
     }
 
@@ -24,11 +24,11 @@ public class FBSettingWindow {
         this.title = title;
     }
 
-    public void addFunctionButton(FunctionButton functionButton) {
+    public void addFunctionButton(FunctionButtonCQ functionButton) {
         functionButtons.add(functionButton);
     }
 
-    public void removeFunctionButton(FunctionButton functionButton) {
+    public void removeFunctionButton(FunctionButtonCQ functionButton) {
         functionButtons.remove(functionButton);
     }
 
@@ -36,7 +36,7 @@ public class FBSettingWindow {
         System.out.println("显示窗口" + this.title);
         System.out.println("显示功能键：");
         for (Object functionButton : functionButtons) {
-            System.out.println(((FunctionButton) functionButton).getName());
+            System.out.println(((FunctionButtonCQ) functionButton).getName());
         }
     }
 }

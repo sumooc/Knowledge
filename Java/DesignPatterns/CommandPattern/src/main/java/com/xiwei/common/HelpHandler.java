@@ -1,4 +1,4 @@
-package com.xiwei;
+package com.xiwei.common;
 
 /**
  * 帮助文档处理类：请求接收者

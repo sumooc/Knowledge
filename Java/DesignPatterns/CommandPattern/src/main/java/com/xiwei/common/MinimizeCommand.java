@@ -1,4 +1,4 @@
-package com.xiwei;
+package com.xiwei.common;
 
 /**
  * 最小化窗口命令类：具体命令类

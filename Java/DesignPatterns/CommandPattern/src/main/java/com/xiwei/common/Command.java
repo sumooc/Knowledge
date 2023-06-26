@@ -1,4 +1,4 @@
-package com.xiwei;
+package com.xiwei.common;
 
 /**
  * 抽象命令类

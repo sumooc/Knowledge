@@ -1,4 +1,7 @@
-package com.xiwei;
+package com.xiwei.basic;
+
+import com.xiwei.common.HelpCommand;
+import com.xiwei.common.MinimizeCommand;
 
 public class TestClient {
     public static void main(String[] args) {
