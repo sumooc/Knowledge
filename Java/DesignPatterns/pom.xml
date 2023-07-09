@@ -26,6 +26,7 @@
         <module>InterpreterPattern</module>
         <module>IteratorPattern</module>
         <module>MediatorPattern</module>
+        <module>ObserverPattern</module>
     </modules>
 
     <properties>
