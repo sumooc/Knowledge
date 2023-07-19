@@ -29,6 +29,7 @@
         <module>MementoPattern</module>
         <module>ObserverPattern</module>
         <module>StatePattern</module>
+        <module>StrategyPattern</module>
     </modules>
 
     <properties>
