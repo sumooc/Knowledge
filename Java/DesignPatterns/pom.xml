@@ -30,6 +30,7 @@
         <module>ObserverPattern</module>
         <module>StatePattern</module>
         <module>StrategyPattern</module>
+        <module>TemplateMethod</module>
     </modules>
 
     <properties>
